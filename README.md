@@ -9,7 +9,7 @@ Hôtes Supervisés :
 
 Instance Linux Ubuntu (Agent Zabbix).
 
-Instance Windows Server 2022 (Agent Zabbix).
+Instance Windows Server (Agent Zabbix).
 
 Réseau : Configuration des Security Groups AWS pour autoriser le trafic sur le port 10050.
 
