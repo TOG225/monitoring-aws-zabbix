@@ -1,4 +1,5 @@
-#AWS Hybrid Infrastructure Monitoring with Zabbix
+# AWS Hybrid Infrastructure Monitoring with Zabbix
+
 Ce projet présente la mise en place d'une solution de supervision centralisée pour un parc informatique hybride hébergé sur AWS. L'architecture permet de surveiller en temps réel des instances Linux (Ubuntu) et Windows Server via un serveur Zabbix conteneurisé.
 
 🚀 Architecture du Projet
