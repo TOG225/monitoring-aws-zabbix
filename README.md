@@ -38,4 +38,4 @@ Pour reproduire la connectivité stable établie dans ce projet, la directive Se
 
 Bash
 Server=127.0.0.1,10.0.4.89,172.18.0.0/16
-Auteur : [Oklin Ghislain TOURE] Environnement : AWS EC2, Docker, Zabbix 6.x/7.x
+Auteur : [Oklin Ghislain TOURE] Environnement : AWS EC2, Docker, Zabbix.
